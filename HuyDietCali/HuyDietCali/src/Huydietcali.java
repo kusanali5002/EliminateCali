@@ -60,7 +60,7 @@ public class Huydietcali extends JPanel {
     }
 
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Image Drawer");
+        JFrame frame = new JFrame("Mừng Quốc Khánh 2-9");
         Huydietcali huydietcali = new Huydietcali();
         frame.add(huydietcali);
         frame.setSize(500, 400);
